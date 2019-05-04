@@ -1,0 +1,4 @@
+<aura:component>
+    <aura:attribute name="recordId" type="Id" />    
+    <div>This is a test</div>
+</aura:component>	

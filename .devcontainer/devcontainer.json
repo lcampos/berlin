@@ -1,0 +1,15 @@
+{
+	"name": "SFDX in Docker",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"salesforce.salesforcedx-vscode-core",
+		"salesforce.salesforcedx-vscode-apex",
+		"salesforce.salesforcedx-vscode-apex-replay-debugger",
+		"salesforce.salesforcedx-vscode-lightning",
+		"salesforce.salesforcedx-vscode-lwc",
+		"salesforce.salesforcedx-vscode-visualforce",
+		"redhat.vscode-xml",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode"
+	]
+}
